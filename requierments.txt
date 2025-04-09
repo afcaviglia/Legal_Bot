@@ -1,0 +1,9 @@
+python-dotenv
+cohere
+langchain
+scikit-learn
+pydantic
+uuid
+fastapi
+pypdf
+uvicorn
